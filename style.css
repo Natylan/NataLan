@@ -15,13 +15,18 @@ h1 {
     padding-left: 10px;
 }
 
-h3, h2 {
+h2, h3 {
     font-family: 'Cormorant Unicase', serif;
     padding: 2px;
     padding-bottom: 10px;
     margin: 5px;
-    color:rgb(150, 150, 150);
+    color:rgb(83, 83, 83);
 }
+.visit {
+    color:rgb(185, 185, 185);
+}
+
+
 
 .banner{
     background-color: rgb(83, 83, 83);
